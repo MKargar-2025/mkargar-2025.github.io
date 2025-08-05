@@ -18,6 +18,6 @@ title: Research Projects & Publications
 
 **Connected Speech in Ageing and TIA: A Study of Cognitive‑Linguistic Change**
 
-My PhD research explores subtle changes in language and cognition in individuals with Transient Ischemic Attack (TIA) and in healthy ageing.  
+My PhD research explores subtle changes in language and cognition in individuals with Transient Ischemic Attack (TIA) and in Healthy Ageing.  
 Using connected speech tasks in both single‑ and dual‑task conditions, the study aims to identify early signs of cognitive‑linguistic impairment.  
 The research combines discourse analysis with neuropsychological and self‑report assessments to better understand language decline in at‑risk groups.
