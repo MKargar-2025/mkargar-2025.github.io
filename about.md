@@ -6,9 +6,10 @@ title: About Me
 # About Me
 
 I'm Mahmoud Kargar, a PhD researcher in Speech and Language Sciences at Newcastle University.  
-My research focuses on connected speech analysis in people with Transient Ischemic Attack (TIA) and healthy ageing, combining cognitive-linguistic assessment with clinical insight.
+My research explores the relationship between language and cognition, with a particular focus on connected speech analysis in individuals with Transient Ischemic Attack (TIA) and healthy ageing. I aim to combine cognitive-linguistic assessment with clinical insight to better understand subtle changes in communication.
 
-I am passionate about academic research, teaching, critical thinking, and interdisciplinary collaboration.  
-This site reflects both my academic identity and my personal journey — including thoughts on music, film, and everyday reflections.
+I'm passionate about research, teaching, critical thinking, and interdisciplinary collaboration.  
+This website reflects both my academic profile and personal interests, including thoughts on music, films, and everyday reflections.
 
 Feel free to explore my [Research Projects](projects.md) or check out the [Blog & Reflections](blog.md).
+
