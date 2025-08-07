@@ -3,10 +3,12 @@ layout: default
 title: Mahmoud Kargar | PhD Researcher in Speech and Language Sciences
 ---
 
-# Welcome! 👋  
-I'm Mahmoud, a PhD researcher in Speech and Language Sciences at Newcastle University.
+<div class="content-box">
 
-This is my academic and personal portfolio, where I share my research, reflections, thoughts on films, music, and academic life.
+# Welcome! 👋
+
+I’m Mahmoud, a PhD researcher in Speech and Language Sciences at Newcastle University.  
+This is my academic and personal portfolio where I share my research, reflections, thoughts on films, music, and academic life.
 
 ## Main Sections:
 
@@ -14,3 +16,5 @@ This is my academic and personal portfolio, where I share my research, reflectio
 - [Research Projects](projects.md)
 - [Blog & Reflections](blog.md)
 - [Contact](contact.md)
+
+</div>
