@@ -14,7 +14,7 @@ title: Research Projects & Publications
 - Kargar, M., Askari, S., Khoshaman, A., & Mohammadi, A. (2019). Differential diagnosis of schizophrenia and schizoaffective disorder from normal subjects using virtual reality. *Psychiatry Research*. https://doi.org/10.1016/j.psychres.2019.01.037  
 - Kargar, M., & Mohammadi, A. (2021). Auditory verbal learning disabilities in patients with mild cognitive impairment and mild Alzheimer’s disease: A clinical study. *arXiv Preprint*, arXiv:2110.12969. https://arxiv.org/abs/2110.12969
 
----
+
 
 # 🧠 PhD Project
 
