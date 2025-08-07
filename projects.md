@@ -2,7 +2,7 @@
 layout: default
 title: Research Projects & Publications
 ---
-
+<div class="content-box">
 # 📚 Publications
 
 - Mohammadi, A., Kargar, M., & Hesami, E. (2018). Using virtual reality to distinguish subjects with multiple—but not single‑domain amnestic mild cognitive impairment from normal elderly subjects. *Psychogeriatrics, 18*(2), 132–142. https://doi.org/10.1111/psyg.12301  
@@ -21,3 +21,4 @@ title: Research Projects & Publications
 My PhD research explores subtle changes in language and cognition in individuals with Transient Ischemic Attack (TIA) and in Healthy Ageing.  
 Using connected speech tasks in both single‑ and dual‑task conditions, the study aims to identify early signs of cognitive‑linguistic impairment.  
 The research combines discourse analysis with neuropsychological and self‑report assessments to better understand language decline in at‑risk groups.
+</div>
