@@ -4,3 +4,26 @@ body {
   background-position: center;
   background-attachment: fixed;
 }
+body {
+  font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  color: #222; /* رنگ متن کمی تیره‌تر برای خوانایی بهتر */
+  line-height: 1.6;
+}
+.content-box {
+  background-color: rgba(255, 255, 255, 0.95);
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  max-width: 900px;
+  margin: 40px auto;
+}
+a {
+  color: #3366cc;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #003399;
+}
