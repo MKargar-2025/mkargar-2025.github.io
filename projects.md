@@ -3,7 +3,7 @@ layout: default
 title: Research Projects & Publications
 ---
 
-
+<div class="content-box">
 
 # 📚 Publications
 
@@ -24,5 +24,5 @@ My PhD research explores subtle changes in language and cognition in individuals
 Using connected speech tasks in both single‑ and dual‑task conditions, the study aims to identify early signs of cognitive‑linguistic impairment.  
 The research combines discourse analysis with neuropsychological and self‑report assessments to better understand language decline in at‑risk groups.
 
-
+</div>
 
