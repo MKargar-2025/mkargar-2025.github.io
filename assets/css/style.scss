@@ -3,7 +3,6 @@ body {
   color: #222; /* رنگ متن کمی تیره‌تر برای خوانایی بهتر */
   line-height: 1.6;
 }
-
 .content-box {
   background-color: rgba(255, 255, 255, 0.8); /* پس‌زمینه سفید با شفافیت */
   padding: 20px;
@@ -11,5 +10,15 @@ body {
   max-width: 800px;
   margin: auto;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* سایه ملایم */
+}
+a {
+  color: #3366cc;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #003399;
 }
 
