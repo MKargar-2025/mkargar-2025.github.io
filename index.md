@@ -10,7 +10,7 @@ This is my academic and personal portfolio where I share my research, reflection
 
 ## 🧭 Main Sections:
 
-- [About Me](about.md)
-- [Research Projects](projects.md)
-- [Blog & Reflections](blog.md)
-- [Contact](contact.md)
+- [About Me](/about/)
+- [Research Projects](/projects/)
+- [Blog & Reflections](/blog/)
+- [Contact](/contact/)
